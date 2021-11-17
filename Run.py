@@ -3,6 +3,7 @@ import numpy as np
 import smtplib
 import threading
 from playsound import playsound
+#test 
 
 Alarm_Status = False
 Email_Status = False
