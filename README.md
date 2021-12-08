@@ -13,3 +13,5 @@ https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 https://arxiv.org/pdf/1506.02640.pdf
 
 https://link.springer.com/article/10.1007/s11554-020-01044-0  **research fire detection**
+
+https://www.researchgate.net/publication/329642719_Fire_Detection_System_Using_Artificial_Intelligence_Techniques **more research**
